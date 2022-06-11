@@ -1,0 +1,7 @@
+E:\DX10\pro222\project\obj\x86\Debug\project.exe
+E:\DX10\pro222\project\obj\x86\Debug\project.pdb
+E:\DX10\pro222\project\bin\Debug\project.exe
+E:\DX10\pro222\project\bin\Debug\project.pdb
+E:\DX10\pro222\project\obj\x86\Debug\project.csprojResolveAssemblyReference.cache
+E:\DX10\Word_Semantic\project\obj\x86\Debug\project.exe
+E:\DX10\Word_Semantic\project\obj\x86\Debug\project.pdb
